@@ -1,9 +1,12 @@
 +++
-title = "About Hugo"
+title = "About Me"
 slug = "about"
 +++
 
-Hugo is a static site engine written in Go.
+Wait for more content.
+- __Name:__ Shadrick
+- __Ocupation:__ "Employed"
+- __Hobbies:__ Learning data science instead of studying for exams. 
 
 
 It makes use of a variety of open source projects including:

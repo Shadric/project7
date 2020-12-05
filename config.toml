@@ -143,10 +143,7 @@ disqusShortname = "yourdiscussshortname"
             url = "contact/"
 
 
-    [languages.pt-br]
-        languageName = "Português"
-        title = "João Ninguém"
-
+    
         [languages.pt-br.params]
             author = "João Ninguém"
             info = "Full Stack DevOps e Mágico"
