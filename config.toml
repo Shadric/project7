@@ -1,7 +1,7 @@
 baseURL = "https://shadsimumba.netlify.app"
 title = "Shadrick Simumba"
 
-theme = "hugo-coder"
+theme = "gohugo-theme-ananke"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_cache$", "\\.knit\\.md$", "\\.utf8\\.md$"]
 languageCode = "en"
 defaultContentLanguage = "en"
